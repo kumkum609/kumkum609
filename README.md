@@ -1,10 +1,24 @@
 <div align="center">
 
-# 👋 Hello, I'm Kumkum
+# 👋 Hi, I'm Kumkum
 
 ### BCA Student | Aspiring Data Analyst 📊
 
-**Python • SQL • MySQL • Excel**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://github.com/kumkum609">
+    <img src="https://img.shields.io/github/followers/kumkum609?label=Followers&style=flat"/>
+  </a>
+  <a href="https://github.com/kumkum609">
+    <img src="https://img.shields.io/github/stars/kumkum609?label=Stars&style=flat"/>
+  </a>
+</p>
 
 </div>
 
@@ -12,13 +26,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 I am currently pursuing **BCA** and building my skills in **Data Analytics**.
+🎓 I am currently pursuing *BCA* and building my skills in *Data Analytics*.
 
 📊 I am interested in working with data, finding insights and solving problems using technology.
 
-🐍 Currently learning and improving my skills in **Python, SQL, MySQL and Excel**.
+🐍 Currently learning and improving my skills in *Python, SQL, MySQL and Excel*.
 
-💼 Currently doing **IBM SkillsBuild Data Analytics with AI** internship/learning program.
+💼 Currently doing *IBM SkillsBuild Data Analytics with AI* internship/learning program.
 
 🌱 I believe in continuous learning and improving my practical skills through projects.
 
@@ -27,27 +41,33 @@
 ## 🛠️ Skills
 
 ### Programming & Data
-- 🐍 Python
-- 🗄️ SQL
-- 🐬 MySQL
-- 📊 Excel
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ### Tools
-- 🔗 Git & GitHub
-- 📓 Jupyter Notebook
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏫 College Management System
-A Python-based management system containing student and library management modules.
+### 🏫 Student Management System
 
-### 🐍 Python Projects
-A collection of Python projects created while learning programming concepts and problem-solving.
+A management system built using **Python and MySQL** for managing student records and database operations.
 
-### 📊 Data Analytics Projects
-Projects focused on data analysis using Python, SQL, MySQL and Excel.
+### 📊 Student Performance Analysis
+
+A data analytics project developed as part of my **IBM BOB learning/project work**, focused on analysing student performance data.
 
 ---
 
@@ -58,34 +78,61 @@ Projects focused on data analysis using Python, SQL, MySQL and Excel.
 
 ---
 
-## 🎯 Career Interest
+## 📚 Currently Learning
 
-**Data Analytics | Data Analyst | Business Analytics**
+- 📊 Data Analytics
+- 🐍 Python for Data Analysis
+- 🗄️ Advanced SQL
+- 📈 Excel for Data Analysis
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Career Interests
 
-- 📊 Data Analysis
-- 🐍 Python for Data Analytics
-- 🗄️ Advanced SQL
-- 📈 Excel for Data Analysis
-- 📉 Data Visualization
+**Data Analytics | Data Analyst | Software Development | Python Development**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kumkum609&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkum609&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kumkum609&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<div align="left">
+
 <a href="https://www.linkedin.com/in/kumkum-gautam">
-<img src="https://img.shields.io/badge/LinkedIn-Kumkum%20Gautam-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Kumkum%20Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+
+<a href="https://github.com/kumkum609">
+<img src="https://img.shields.io/badge/GitHub-kumkum609-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile!** ⭐
+⭐ **Thanks for visiting my profile!**
 
 </div>
