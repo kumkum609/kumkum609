@@ -1,52 +1,60 @@
-# Hi, I'm Kumkum 👋
+<div align="center">
+
+# 👋 Hello, I'm Kumkum
 
 ### BCA Student | Aspiring Data Analyst 📊
 
-I'm currently pursuing BCA and building my skills in Data Analytics.
-I enjoy working with data, solving problems, and learning new technologies.
+**Python • SQL • MySQL • Excel**
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA Student
-- 📊 Interested in Data Analytics
-- 🐍 Learning Python
-- 🗄️ Working with SQL & MySQL
-- 📈 Learning Excel for Data Analysis
-- 💼 Currently doing IBM SkillsBuild Data Analytics with AI internship
-- 🌱 Always learning and improving my technical skills
+🎓 I am currently pursuing **BCA** and building my skills in **Data Analytics**.
+
+📊 I am interested in working with data, finding insights and solving problems using technology.
+
+🐍 Currently learning and improving my skills in **Python, SQL, MySQL and Excel**.
+
+💼 Currently doing **IBM SkillsBuild Data Analytics with AI** internship/learning program.
+
+🌱 I believe in continuous learning and improving my practical skills through projects.
 
 ---
 
 ## 🛠️ Skills
 
-- Python
-- SQL
-- MySQL
-- Excel
-- Git & GitHub
+### Programming & Data
+- 🐍 Python
+- 🗄️ SQL
+- 🐬 MySQL
+- 📊 Excel
+
+### Tools
+- 🔗 Git & GitHub
+- 📓 Jupyter Notebook
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### 🏫 College Management System
-A Python-based management system with modules for student and library management.
+A Python-based management system containing student and library management modules.
 
 ### 🐍 Python Projects
-Collection of Python projects created while learning programming concepts and problem-solving.
+A collection of Python projects created while learning programming concepts and problem-solving.
 
 ### 📊 Data Analytics Projects
-Working on data analysis projects using Python, SQL, MySQL and Excel.
+Projects focused on data analysis using Python, SQL, MySQL and Excel.
 
 ---
 
 ## 📜 Certifications
 
-- HackerRank Python (Basic)
-- HackerRank SQL (Basic)
-- IBM SkillsBuild – Data Analytics with AI
+- 🏆 HackerRank Python (Basic)
+- 🏆 HackerRank SQL (Basic)
 
 ---
 
@@ -56,25 +64,28 @@ Working on data analysis projects using Python, SQL, MySQL and Excel.
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
 
-- LinkedIn: [Kumkum Gautam](YOUR_LINKEDIN_LINK)
+- 📊 Data Analysis
+- 🐍 Python for Data Analytics
+- 🗄️ Advanced SQL
+- 📈 Excel for Data Analysis
+- 📉 Data Visualization
 
 ---
 
-⭐ Thanks for visiting my profile!## Hi there 👋
+## 🔗 Connect With Me
 
-<!--
-**kumkum609/kumkum609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.linkedin.com/in/kumkum-gautam">
+<img src="https://img.shields.io/badge/LinkedIn-Kumkum%20Gautam-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+</div>
