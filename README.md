@@ -11,15 +11,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-<p>
-  <a href="https://github.com/kumkum609">
-    <img src="https://img.shields.io/github/followers/kumkum609?label=Followers&style=flat"/>
-  </a>
-  <a href="https://github.com/kumkum609">
-    <img src="https://img.shields.io/github/stars/kumkum609?label=Stars&style=flat"/>
-  </a>
-</p>
-
 </div>
 
 ---
@@ -61,7 +52,7 @@
 
 ## 📂 Featured Projects
 
-### 🏫 Student Management System
+### 🏫 College Management System
 
 A management system built using **Python and MySQL** for managing student records and database operations.
 
@@ -97,7 +88,7 @@ A data analytics project developed as part of my **IBM BOB learning/project work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumkum609&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kumkum609&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Github stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkum609&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
