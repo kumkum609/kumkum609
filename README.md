@@ -84,18 +84,6 @@ A data analytics project developed as part of my **IBM BOB learning/project work
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kumkum609&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Github stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkum609&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
